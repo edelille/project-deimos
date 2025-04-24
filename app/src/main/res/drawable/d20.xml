@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Background pentagon -->
+    <path
+        android:fillColor="#AAAAAA"
+        android:pathData="M50,0 L90,38 L75,90 L25,90 L10,38 Z" />
+
+    <!-- Number 1 -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M40,50 L60,50 L50,70 Z"/>
+    
+    <!-- Number 2 -->
+        <path
+        android:fillColor="#000000"
+        android:pathData="M40,30 L50,10 L60,30 Z"/>
+
+    <!-- Number 3 -->
+        <path
+        android:fillColor="#000000"
+        android:pathData="M20,40 L30,20 L30,60 Z"/>
+
+     <!-- Number 4 -->
+        <path
+        android:fillColor="#000000"
+        android:pathData="M80,40 L70,20 L70,60 Z"/>
+
+     <!-- Number 5 -->
+        <path
+        android:fillColor="#000000"
+        android:pathData="M30,80 L50,90 L70,80 Z"/>
+
+</vector>

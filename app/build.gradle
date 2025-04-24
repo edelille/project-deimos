@@ -1,0 +1,29 @@
+android {
+    namespace 'com.example.floatingd20'
+    applicationId "com.example.floatingd20"
+
+    defaultConfig {
+        applicationId "com.example.floatingd20"
+        // ... other configurations
+    }
+    // ... other configurations
+}
+
+android {
+    // ... other configurations
+    
+    buildTypes {
+        release {
+            // ... configurations
+        }
+    }
+    
+    // ... other configurations
+}
+
+//in the strings.xml
+
+<resources>
+    <string name="app_name">Floating D20</string>
+    <!-- ... other strings -->
+</resources>
