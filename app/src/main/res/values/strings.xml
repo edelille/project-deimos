@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dice Master Andy 3000</string>
+    <string name="play">Play</string>
+    <string name="options">Options</string>
+    <string name="credits">Credits</string>
+    <string name="exit">Exit</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="developer">Your Name</string>
+    <string name="company">Columbia software company</string>
+    <string name="time_since_inception">Time since inception: %1$s</string>
+    <string name="dice_color">Dice Color</string>
+    <string name="sound">Sound</string>
+    <string name="volume">Volume</string>
+</resources> 
